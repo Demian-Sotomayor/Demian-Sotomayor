@@ -15,6 +15,9 @@ In search of following my convictions and fulfilling my dreams, I started from a
   <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white&color=6066C6" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white&color=e3b005" />
   <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white&color=6987D5" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white&color=0367A6" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%236a7aad?style=flat-square&logo=postgresql&logoColor=white&color=3366FF" />
+  <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-%2383a8cf?style=flat-square&logo=insomnia&logoColor=white&color=4a04bf" />
 </p>
 
 <!-- Social -->
