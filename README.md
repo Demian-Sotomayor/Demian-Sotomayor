@@ -15,9 +15,21 @@ In search of following my convictions and fulfilling my dreams, I started from a
   <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white&color=6066C6" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white&color=e3b005" />
   <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white&color=6987D5" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%2383a8cf?style=flat-square&logo=bootstrap&logoColor=white&color=6f42c1" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-%2383a8cf?style=flat-square&logo=vite&logoColor=white&color=5d30ef" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white&color=0367A6" />
+
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-%2383a8cf?style=flat-square&logo=node.js&logoColor=white&color=3e9e6b" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-%236a7aad?style=flat-square&logo=postgresql&logoColor=white&color=3366FF" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-%2383a8cf?style=flat-square&logo=git&logoColor=white&color=d06f49" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-%2383a8cf?style=flat-square&logo=figma&logoColor=white&color=4a89c9" />
   <img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-%2383a8cf?style=flat-square&logo=insomnia&logoColor=white&color=4a04bf" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-%2383a8cf?style=flat-square&logo=wireshark&logoColor=white&color=4a89c9" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali Linux-%2383a8cf?style=flat-square&logo=kaliLinux&logoColor=black&color=4a89c9" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-%2383a8cf?style=flat-square&logo=ubuntu&logoColor=orange&color=f5f5f5" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-%2383a8cf?style=flat-square&logo=flask&logoColor=black&color=f5f5f5" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-%2383a8cf?style=flat-square&logo=express&logoColor=black&color=f5f5f5" />
+
 </p>
 
 <!-- Social -->
