@@ -2,10 +2,10 @@
 <!-- Title -->
 <h1>¡Bienvenido de vuelta!</h1>
 <!-- Subtitle -->
-<p>Un gusto!<br><br>
+<p>¡Un gusto!<br><br>
 Soy Demian, desarrollador Frontend, empecé mi camino haciendo cursos en <b>Udemy</b> y luego hice un bootcamp Fullstack en <b>4Geeks Academy</b>.  <br>
 
-Tras eso seguí perfeccionandome y aprendiendo mientras buscaba oportunidades, logré entrar en <b>Mediahuella</b>, donde di mantención, mejoras e implementaciones a grandes marcas como Tienda Copec, Mar del Sur (Kendal, Heimat, Scaldasonno, Bellisima Chile), Sporting Brands, Cruz y Cia, Kallfu Pro, Coulisse Chile, Rematime, Cámara Diseña sustentable y más! Fue una oportunidad única para mi desarrollo personal y profesional. <br><br>
+Tras eso seguí perfeccionandome y aprendiendo mientras buscaba oportunidades, logré entrar en <b>Mediahuella</b>, donde di mantención, mejoras e implementaciones a grandes marcas como Tienda Copec, Mar del Sur (Kendal, Heimat, Scaldasonno, Bellisima Chile), Sporting Brands, Cruz y Cia, Kallfu Pro, Coulisse Chile, Rematime, Cámara Diseña sustentable y más! Fue una oportunidad única para mi desarrollo personal y profesional. <br>
 
 Soy de <img src="https://cdn-icons-png.flaticon.com/512/323/323284.png" width="14"> <b>Santiago, Chile</b>, y planeo seguir este camino y buscar cada vez mejores oportunidades.
 </p>
