@@ -1,11 +1,14 @@
 
 <!-- Title -->
-<h1>Hi! I missed you already</h1>
+<h1>¡Bienvenido de vuelta!</h1>
 
 <!-- Subtitle -->
-<p>Nice to meet you!<br>
-I'm Demian, I started my journey taking courses on <b>Udemy</b> and I'm currently a student at <b>4Geeks Academy</b> to be a Fullstack Developer.  <br><br>
-In search of following my convictions and fulfilling my dreams, I started from a young age, I hope we get along well! and before i forget, I'm from <img src="https://cdn-icons-png.flaticon.com/512/323/323284.png" width="14"> <b>Santiago, Chile.</b>
+<p>Un gusto!<br>
+Soy Demian, desarrollador Frontend, empecé mi camino haciendo cursos en <b>Udemy</b> y luego hice un bootcamp Fullstack en <b>4Geeks Academy</b>.  <br><br>
+
+Tras eso seguí perfeccionandome y aprendiendo mientras buscaba oportunidades, logré entrar en <b>Mediahuella</b>, donde di mantención, mejoras e implementaciones a grandes marcas como Tienda Copec, Mar del Sur (Kendal, Heimat, Scaldasonno, Bellisima Chile), Sporting Brands, Cruz y Cia, Kallfu Pro, Coulisse Chile, Rematime, Cámara Diseña sustentable y más! Fue una oportunidad única para mi desarrollo personal y profesional. <br><br>
+  
+Soy de <img src="https://cdn-icons-png.flaticon.com/512/323/323284.png" width="14"> <b>Santiago, Chile</b>, y planeo seguir este camino y buscar cada vez mejores oportunidades.
 </p>
 
 <!-- Skills -->
