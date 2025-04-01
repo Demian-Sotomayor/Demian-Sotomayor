@@ -15,6 +15,8 @@ In search of following my convictions and fulfilling my dreams, I started from a
   <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white&color=6066C6" />
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-%23ad5149?style=flat-square&logo=javascript&logoColor=white&color=e3b005" />
   <img alt="React" src="https://img.shields.io/badge/-React-%23ac5d8b?style=flat-square&logo=react&logoColor=white&color=6987D5" />
+  <img alt="NextJS" src="https://img.shields.io/badge/-NextJS-%23ac5d8b?style=flat-square&logo=nextjs&logoColor=white&color=6987D5" />
+  <img alt="Shopify" src="https://img.shields.io/badge/-Shopify-%2383a8cf?style=flat-square&logo=shopify&logoColor=green&color=f5f5f5" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-%2383a8cf?style=flat-square&logo=bootstrap&logoColor=white&color=6f42c1" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-%2383a8cf?style=flat-square&logo=vite&logoColor=white&color=5d30ef" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-%237f6aad?style=flat-square&logo=python&logoColor=white&color=0367A6" />
@@ -29,7 +31,6 @@ In search of following my convictions and fulfilling my dreams, I started from a
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-%2383a8cf?style=flat-square&logo=ubuntu&logoColor=orange&color=f5f5f5" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-%2383a8cf?style=flat-square&logo=flask&logoColor=black&color=f5f5f5" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-%2383a8cf?style=flat-square&logo=express&logoColor=black&color=f5f5f5" />
-
 </p>
 
 <!-- Social -->
