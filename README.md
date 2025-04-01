@@ -11,7 +11,7 @@ Soy de <img src="https://cdn-icons-png.flaticon.com/512/323/323284.png" width="1
 </p>
 
 <!-- Skills -->
-<h3>Skills</h3>
+<h3>Conocimientos y habilidades</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-%23b3535e?style=flat-square&logo=html5&logoColor=white&color=d06f49" />
   <img alt="css" src="https://img.shields.io/badge/CSS-%23cda043?style=flat-square&logo=css3&logoColor=white&color=6066C6" />
@@ -36,7 +36,7 @@ Soy de <img src="https://cdn-icons-png.flaticon.com/512/323/323284.png" width="1
 </p>
 
 <!-- Social -->
-<h3>Where to find me</h3>
+<h3>Dónde encontrarme</h3>
 <p>
   <a href="https://github.com/demian-sotomayor" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/demian-sotomayor-urrutia" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
